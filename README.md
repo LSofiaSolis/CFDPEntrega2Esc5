@@ -1,0 +1,1 @@
+# Proyecto listo. Ejecuta 'main' para generar los CSV en output/.
